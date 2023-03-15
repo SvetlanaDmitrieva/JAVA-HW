@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T11:16:30.491116200Z</date>
+  <millis>1678792590491</millis>
+  <nanos>116200</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор  
+ </message>
+</record>
+<record>
+  <date>2023-03-14T11:16:59.790630500Z</date>
+  <millis>1678792619790</millis>
+  <nanos>630500</nanos>
+  <sequence>1</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 25.0 / 6.0</message>
+</record>
+<record>
+  <date>2023-03-14T11:16:59.792628900Z</date>
+  <millis>1678792619792</millis>
+  <nanos>628900</nanos>
+  <sequence>2</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат оперции: 25.0 / 6.0 = 4.166666666666667</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T11:18:21.540779600Z</date>
+  <millis>1678792701540</millis>
+  <nanos>779600</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<record>
+  <date>2023-03-14T11:18:48.380993600Z</date>
+  <millis>1678792728380</millis>
+  <nanos>993600</nanos>
+  <sequence>1</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 15.0 / 3.0</message>
+</record>
+<record>
+  <date>2023-03-14T11:18:48.382001100Z</date>
+  <millis>1678792728382</millis>
+  <nanos>1100</nanos>
+  <sequence>2</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат оперции: 15.0 / 3.0 = 5.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T11:20:21.950402600Z</date>
+  <millis>1678792821950</millis>
+  <nanos>402600</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<record>
+  <date>2023-03-14T11:20:30.120303700Z</date>
+  <millis>1678792830120</millis>
+  <nanos>303700</nanos>
+  <sequence>1</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 55.0 / 11.0</message>
+</record>
+<record>
+  <date>2023-03-14T11:20:30.122303500Z</date>
+  <millis>1678792830122</millis>
+  <nanos>303500</nanos>
+  <sequence>2</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат оперции: 55.0 / 11.0 = 5.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T11:21:33.871346100Z</date>
+  <millis>1678792893871</millis>
+  <nanos>346100</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<record>
+  <date>2023-03-14T11:21:58.053087900Z</date>
+  <millis>1678792918053</millis>
+  <nanos>87900</nanos>
+  <sequence>1</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 55.0 + 22.0</message>
+</record>
+<record>
+  <date>2023-03-14T11:21:58.055085600Z</date>
+  <millis>1678792918055</millis>
+  <nanos>85600</nanos>
+  <sequence>2</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат оперции: 55.0 + 22.0 = 77.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T11:22:06.420059500Z</date>
+  <millis>1678792926420</millis>
+  <nanos>59500</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T11:54:03.471247500Z</date>
+  <millis>1678794843471</millis>
+  <nanos>247500</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T13:30:57.940108400Z</date>
+  <millis>1678800657940</millis>
+  <nanos>108400</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T13:32:11.558180200Z</date>
+  <millis>1678800731558</millis>
+  <nanos>180200</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T13:35:31.021042700Z</date>
+  <millis>1678800931021</millis>
+  <nanos>42700</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T13:39:39.059811900Z</date>
+  <millis>1678801179059</millis>
+  <nanos>811900</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T13:42:15.031425400Z</date>
+  <millis>1678801335031</millis>
+  <nanos>425400</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T13:54:39.542480500Z</date>
+  <millis>1678802079542</millis>
+  <nanos>480500</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T14:05:48.454842900Z</date>
+  <millis>1678802748454</millis>
+  <nanos>842900</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T14:38:06.163857100Z</date>
+  <millis>1678804686163</millis>
+  <nanos>857100</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T14:40:44.455617100Z</date>
+  <millis>1678804844455</millis>
+  <nanos>617100</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T14:43:18.296607500Z</date>
+  <millis>1678804998296</millis>
+  <nanos>607500</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:12:17.421502300Z</date>
+  <millis>1678806737421</millis>
+  <nanos>502300</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:13:19.029339500Z</date>
+  <millis>1678806799029</millis>
+  <nanos>339500</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:14:01.722915900Z</date>
+  <millis>1678806841722</millis>
+  <nanos>915900</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:22:10.046143500Z</date>
+  <millis>1678807330046</millis>
+  <nanos>143500</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:23:03.592112900Z</date>
+  <millis>1678807383592</millis>
+  <nanos>112900</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:23:53.541688700Z</date>
+  <millis>1678807433541</millis>
+  <nanos>688700</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:25:16.191848900Z</date>
+  <millis>1678807516191</millis>
+  <nanos>848900</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:44:31.990331300Z</date>
+  <millis>1678808671990</millis>
+  <nanos>331300</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:48:30.389556600Z</date>
+  <millis>1678808910389</millis>
+  <nanos>556600</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:49:08.988949Z</date>
+  <millis>1678808948988</millis>
+  <nanos>949000</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:49:55.473674500Z</date>
+  <millis>1678808995473</millis>
+  <nanos>674500</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:53:27.101221600Z</date>
+  <millis>1678809207101</millis>
+  <nanos>221600</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T15:57:23.783623100Z</date>
+  <millis>1678809443783</millis>
+  <nanos>623100</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T16:14:35.011555700Z</date>
+  <millis>1678810475011</millis>
+  <nanos>555700</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-15T12:24:26.954134Z</date>
+  <millis>1678883066954</millis>
+  <nanos>134000</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-15T12:30:36.366049700Z</date>
+  <millis>1678883436366</millis>
+  <nanos>49700</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-15T12:44:39.108969700Z</date>
+  <millis>1678884279108</millis>
+  <nanos>969700</nanos>
+  <sequence>0</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<record>
+  <date>2023-03-15T12:44:41.679643600Z</date>
+  <millis>1678884281679</millis>
+  <nanos>643600</nanos>
+  <sequence>1</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 25.0   0.0</message>
+</record>
+<record>
+  <date>2023-03-15T12:44:41.680644300Z</date>
+  <millis>1678884281680</millis>
+  <nanos>644300</nanos>
+  <sequence>2</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введен неверный знак операции: . Введите + или - или * или /</message>
+</record>
+<record>
+  <date>2023-03-15T12:44:41.681643200Z</date>
+  <millis>1678884281681</millis>
+  <nanos>643200</nanos>
+  <sequence>3</sequence>
+  <logger>program0204</logger>
+  <level>INFO</level>
+  <class>program0204</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Указан недопустимый оператор:  </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-15T12:58:20.000227600Z</date>
+  <millis>1678885100000</millis>
+  <nanos>227600</nanos>
+  <sequence>0</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<record>
+  <date>2023-03-15T12:58:39.128479600Z</date>
+  <millis>1678885119128</millis>
+  <nanos>479600</nanos>
+  <sequence>1</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 25.0 + 15.0</message>
+</record>
+<record>
+  <date>2023-03-15T12:58:39.130480100Z</date>
+  <millis>1678885119130</millis>
+  <nanos>480100</nanos>
+  <sequence>2</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат оперции: 25.0 + 15.0 = 40.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-15T13:00:13.792867800Z</date>
+  <millis>1678885213792</millis>
+  <nanos>867800</nanos>
+  <sequence>0</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<record>
+  <date>2023-03-15T13:00:27.237235100Z</date>
+  <millis>1678885227237</millis>
+  <nanos>235100</nanos>
+  <sequence>1</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 66.0 / 11.0</message>
+</record>
+<record>
+  <date>2023-03-15T13:00:27.238241500Z</date>
+  <millis>1678885227238</millis>
+  <nanos>241500</nanos>
+  <sequence>2</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат оперции: 66.0 / 11.0 = 6.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-15T13:00:37.098430100Z</date>
+  <millis>1678885237098</millis>
+  <nanos>430100</nanos>
+  <sequence>0</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<record>
+  <date>2023-03-15T13:00:46.311733800Z</date>
+  <millis>1678885246311</millis>
+  <nanos>733800</nanos>
+  <sequence>1</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 35.0 5 66.0</message>
+</record>
+<record>
+  <date>2023-03-15T13:00:46.313735300Z</date>
+  <millis>1678885246313</millis>
+  <nanos>735300</nanos>
+  <sequence>2</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введен неверный знак операции:5. Введите + или - или * или /</message>
+</record>
+<record>
+  <date>2023-03-15T13:00:46.314734700Z</date>
+  <millis>1678885246314</millis>
+  <nanos>734700</nanos>
+  <sequence>3</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Указан недопустимый оператор: 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-15T13:01:00.265060300Z</date>
+  <millis>1678885260265</millis>
+  <nanos>60300</nanos>
+  <sequence>0</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<record>
+  <date>2023-03-15T13:01:07.530888700Z</date>
+  <millis>1678885267530</millis>
+  <nanos>888700</nanos>
+  <sequence>1</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 66.0 / 12.0</message>
+</record>
+<record>
+  <date>2023-03-15T13:01:07.532890400Z</date>
+  <millis>1678885267532</millis>
+  <nanos>890400</nanos>
+  <sequence>2</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат оперции: 66.0 / 12.0 = 5.5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-15T13:03:47.254330800Z</date>
+  <millis>1678885427254</millis>
+  <nanos>330800</nanos>
+  <sequence>0</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Запущена программа Калькулятор </message>
+</record>
+<record>
+  <date>2023-03-15T13:03:58.815198900Z</date>
+  <millis>1678885438815</millis>
+  <nanos>198900</nanos>
+  <sequence>1</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Введено: 66.0 * 11.0</message>
+</record>
+<record>
+  <date>2023-03-15T13:03:58.816189900Z</date>
+  <millis>1678885438816</millis>
+  <nanos>189900</nanos>
+  <sequence>2</sequence>
+  <logger>program0203</logger>
+  <level>INFO</level>
+  <class>program0203</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Результат оперции: 66.0 x 11.0 = 726.0</message>
+</record>
+</log>

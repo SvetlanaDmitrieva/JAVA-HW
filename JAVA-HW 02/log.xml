@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T10:38:54.336550600Z</date>
+  <millis>1678790334336</millis>
+  <nanos>550600</nanos>
+  <sequence>0</sequence>
+  <logger>program0201</logger>
+  <level>WARNING</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование 1</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.379553300Z</date>
+  <millis>1678790334379</millis>
+  <nanos>553300</nanos>
+  <sequence>1</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Сортировка пузырьком числового массива </message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.380547700Z</date>
+  <millis>1678790334380</millis>
+  <nanos>547700</nanos>
+  <sequence>2</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Исходный массив[25, 18, 6, 21, 1, 12, 35, 2]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.381555200Z</date>
+  <millis>1678790334381</millis>
+  <nanos>555200</nanos>
+  <sequence>3</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[18, 25, 6, 21, 1, 12, 35, 2]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.382555100Z</date>
+  <millis>1678790334382</millis>
+  <nanos>555100</nanos>
+  <sequence>4</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[18, 6, 25, 21, 1, 12, 35, 2]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.383550400Z</date>
+  <millis>1678790334383</millis>
+  <nanos>550400</nanos>
+  <sequence>5</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[18, 6, 21, 25, 1, 12, 35, 2]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.384550200Z</date>
+  <millis>1678790334384</millis>
+  <nanos>550200</nanos>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[18, 6, 21, 1, 25, 12, 35, 2]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.385550900Z</date>
+  <millis>1678790334385</millis>
+  <nanos>550900</nanos>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[18, 6, 21, 1, 12, 25, 35, 2]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.385550900Z</date>
+  <millis>1678790334385</millis>
+  <nanos>550900</nanos>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[18, 6, 21, 1, 12, 25, 2, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.386550400Z</date>
+  <millis>1678790334386</millis>
+  <nanos>550400</nanos>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[6, 18, 21, 1, 12, 25, 2, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.387550500Z</date>
+  <millis>1678790334387</millis>
+  <nanos>550500</nanos>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[6, 18, 1, 21, 12, 25, 2, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.388548500Z</date>
+  <millis>1678790334388</millis>
+  <nanos>548500</nanos>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[6, 18, 1, 12, 21, 25, 2, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.389550100Z</date>
+  <millis>1678790334389</millis>
+  <nanos>550100</nanos>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[6, 18, 1, 12, 21, 2, 25, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.389550100Z</date>
+  <millis>1678790334389</millis>
+  <nanos>550100</nanos>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[6, 1, 18, 12, 21, 2, 25, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.390551100Z</date>
+  <millis>1678790334390</millis>
+  <nanos>551100</nanos>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[6, 1, 12, 18, 21, 2, 25, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.391550700Z</date>
+  <millis>1678790334391</millis>
+  <nanos>550700</nanos>
+  <sequence>15</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[6, 1, 12, 18, 2, 21, 25, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.393552800Z</date>
+  <millis>1678790334393</millis>
+  <nanos>552800</nanos>
+  <sequence>16</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[1, 6, 12, 18, 2, 21, 25, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.394554400Z</date>
+  <millis>1678790334394</millis>
+  <nanos>554400</nanos>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[1, 6, 12, 2, 18, 21, 25, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.395551400Z</date>
+  <millis>1678790334395</millis>
+  <nanos>551400</nanos>
+  <sequence>18</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[1, 6, 2, 12, 18, 21, 25, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.396551500Z</date>
+  <millis>1678790334396</millis>
+  <nanos>551500</nanos>
+  <sequence>19</sequence>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив[1, 2, 6, 12, 18, 21, 25, 35]</message>
+</record>
+<record>
+  <date>2023-03-14T10:38:54.398553200Z</date>
+  <millis>1678790334398</millis>
+  <nanos>553200</nanos>
+  <sequence>20</sequence>
+  <logger>program0201</logger>
+  <level>INFO</level>
+  <class>program0201</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Конец сортировки </message>
+</record>
+</log>
